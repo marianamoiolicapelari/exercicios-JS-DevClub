@@ -1,1 +1,1 @@
-# Exercicios de JavaScript da comunidade DevClub.
+# Exercicios de JavaScript da comunidade DevClub com Rodolfo Mori.
